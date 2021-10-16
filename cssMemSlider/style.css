@@ -149,7 +149,11 @@ body {
    }
    .slider-pagination {
       position: static;
-      margin-top: 70%;
+      margin-top: 60%;
       text-align: center;
+   }
+
+   .slider p {
+      margin-top: 3rem;
    }
 }
