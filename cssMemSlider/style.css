@@ -141,3 +141,15 @@ body {
 .slide-radio4:checked ~ .slider {
    transform: translateX(-300%);
 }
+
+@media (max-width: 790px) {
+   .slider-pagination {
+      text-align: center;
+      top: 95%;
+   }
+   .slider-pagination {
+      position: static;
+      margin-top: 70%;
+      text-align: center;
+   }
+}
